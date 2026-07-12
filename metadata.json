@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Sekolah",
+  "description": "Aplikasi absensi sekolah dengan deteksi lokasi radius 100m, verifikasi foto selfie kamera depan, dan sinkronisasi otomatis ke Google Sheets.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
